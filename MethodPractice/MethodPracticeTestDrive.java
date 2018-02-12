@@ -36,6 +36,8 @@ public class MethodPracticeTestDrive {
 		// Write out a blank line to separate the "tests"
 		System.out.println();
 		
+		//TODO Add calls to the methods you write in MethodPractice. 
+		
 	}
 
 }
